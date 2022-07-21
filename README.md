@@ -59,7 +59,7 @@ How to use
 
 ```python
 # Theme
-THEME = '/path/to/MinimalXY'
+THEME = '/path/to/MinimalBandwith'
 
 # Theme customizations
 MINIMALXY_CUSTOM_CSS = 'static/custom.css'
