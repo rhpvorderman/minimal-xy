@@ -6,20 +6,22 @@ only 39kb of css (8kb gzipped). No Pelican plugins are required to use this
 theme.
 
 MinimalBandwith is a no-frills fork from the excellent 
-[MinimalXY](https://github.com/petrnohejl/minimal-xy) theme which 
+[MinimalXY](https://github.com/petrnohejl/minimal-xy) theme by 
+[Petr Nohejl](https://github.com/petrnohejl/) which 
 was in turn extended from [minimalX](https://github.com/art1fa/minimalX) 
 by [art1fa](https://github.com/art1fa).
 
-Petr Nohejl did an excellent job into modifying the MinimalX theme into the 
-MinimalXY theme that is visually pleasing yet minimalistic. The theme is also 
-very easy to navigate. 
+[Petr Nohejl](https://github.com/petrnohejl/) did an excellent job into 
+modifying the MinimalX theme into the MinimalXY theme that is visually pleasing 
+yet minimalistic. The theme is also very easy to navigate. 
 
 MinimalBandwith removes all the features that makes the modern internet 
 sluggish and bandwidth consuming. There are no custom fonts, there is no 
 javascript and there are no links to third-parties that need to be accessed in 
 order for the website to render.
 
-If you like this theme please send your regards and stars to Petr Nohejl
+If you like this theme please send your regards and stars to 
+[Petr Nohejl](https://github.com/petrnohejl/)
 at the [MinimalXY repository](https://github.com/petrnohejl/minimal-xy). My 
 Only contribution has been pressing the delete button.
 
