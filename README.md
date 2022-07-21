@@ -1,9 +1,16 @@
-MinimalXY Pelican Theme
+MinimalNoXtras Pelican Theme
 =======================
 
-MinimalXY [Pelican](https://getpelican.com/) theme is extended from [minimalX](https://github.com/art1fa/minimalX) by [art1fa](https://github.com/art1fa).
+MinimalNoXtras [Pelican](https://getpelican.com/) is a no-frills fork from 
+the excellent [MinimalXY](https://github.com/petrnohejl/minimal-xy) theme which 
+was in turn extended from [minimalX](https://github.com/art1fa/minimalX) 
+by [art1fa](https://github.com/art1fa).
 
-I made some improvements, polishing and SEO optimization. The main purpose of this fork is to keep everything simple and focus on content. I removed all unnecessary parts. You can see this theme live here: [blog.petrnohejl.cz](http://blog.petrnohejl.cz/).
+Petr Nohejl did an excellent job into modifying the MinimalX theme into the 
+MinimalXY theme that is visually pleasing yet minimalistic. The theme is also 
+very easy to navigate. 
+
+
 
 
 Design focus
@@ -13,7 +20,13 @@ Design focus
 - Good usability, simple & intuitive navigation
 - Focus on what's really important &ndash; your articles
 - Presented in a clean and straightforward way
-- Very lightweight, no custom fonts, no external css or javascript links.
+- Very lightweight:
+  - no custom fonts, 
+  - no javascript
+  - no trackers 
+  - no social media buttons, disqus integration or other integrations.
+  - no dependencies. In order to view the site, no javascript or css will be 
+    downloaded from external sources.
 
 
 Features
@@ -21,7 +34,6 @@ Features
 
 - Fully responsive and mobile-first
 - W3.CSS CSS framework & HTML5 semantics
-- No trackers
 
 
 Screenshots
