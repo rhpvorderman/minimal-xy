@@ -1,8 +1,12 @@
-MinimalNoXtras Pelican Theme
-=======================
+MinimalBandwith Pelican Theme
+=============================
 
-MinimalNoXtras [Pelican](https://getpelican.com/) is a no-frills fork from 
-the excellent [MinimalXY](https://github.com/petrnohejl/minimal-xy) theme which 
+A good-looking minimal [Pelican](https://getpelican.com/) theme that uses 
+only 39kb of css (8kb gzipped). No Pelican plugins are required to use this
+theme.
+
+MinimalBandwith is a no-frills fork from the excellent 
+[MinimalXY](https://github.com/petrnohejl/minimal-xy) theme which 
 was in turn extended from [minimalX](https://github.com/art1fa/minimalX) 
 by [art1fa](https://github.com/art1fa).
 
@@ -10,34 +14,39 @@ Petr Nohejl did an excellent job into modifying the MinimalX theme into the
 MinimalXY theme that is visually pleasing yet minimalistic. The theme is also 
 very easy to navigate. 
 
+MinimalBandwith removes all the features that makes the modern internet 
+sluggish and bandwidth consuming. There are no custom fonts, there is no 
+javascript and there are no links to third-parties that need to be accessed in 
+order for the website to render.
 
+If you like this theme please send your regards and stars to Petr Nohejl
+at the [MinimalXY repository](https://github.com/petrnohejl/minimal-xy). My 
+Only contribution has been pressing the delete button.
 
+This effort was inspired by the [solar-powered version of Low-tech Magazine](
+https://solar.lowtechmagazine.com/). Which is an extremely low-bandwith site.
+You can read more about their efforts [here](
+https://solar.lowtechmagazine.com/about.html). They also have a custom 
+pelican theme named [solar](https://github.com/lowtechmag/solar).
 
 Design focus
 ------------
 
-- Minimal flat design
-- Good usability, simple & intuitive navigation
-- Focus on what's really important &ndash; your articles
-- Presented in a clean and straightforward way
 - Very lightweight:
   - no custom fonts, 
   - no javascript
   - no trackers 
   - no social media buttons, disqus integration or other integrations.
-  - no dependencies. In order to view the site, no javascript or css will be 
-    downloaded from external sources.
+  - no external dependencies. In order to view the site, no javascript or css 
+    will be downloaded from external sources.
 
-
-Features
---------
-
-- Fully responsive and mobile-first
-- W3.CSS CSS framework & HTML5 semantics
-
+- Visual design from MinimalXY: It is already excellent so I
+  will simply import any changes from the MinimalXY upstream.
 
 Screenshots
 -----------
+From the original [MinimalXY theme](https://github.com/petrnohejl/minimal-xy). 
+This theme looks the same.
 
 - [Screenshot #1](screenshot1.png)
 - [Screenshot #2](screenshot2.png)
