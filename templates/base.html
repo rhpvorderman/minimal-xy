@@ -78,9 +78,6 @@
     {% if TAG_FEED_RSS and tag %}
     <link rel="alternate" type="application/rss+xml" href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" title="{{ SITENAME }} Tags RSS Feed" />
     {% endif %}
-    {% if DISQUS_SITENAME %}
-    <link rel="alternate" type="application/rss+xml" href="https://{{ DISQUS_SITENAME }}.disqus.com/latest.rss" title="{{ SITENAME }} Comments RSS Feed">
-    {% endif %}
 
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:regular,bold">
@@ -147,14 +144,5 @@
         </span>
       </div>
     </footer>
-
-    {% if GOOGLE_ANALYTICS %}
-      {% include "ga.html" %}
-    {% endif %}
-
-    {% if PIWIK_URL and PIWIK_SITE_ID %}
-      {% include "piwik.html" %}
-    {% endif %}
-
   </body>
 </html>

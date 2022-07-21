@@ -13,15 +13,15 @@ Design focus
 - Good usability, simple & intuitive navigation
 - Focus on what's really important &ndash; your articles
 - Presented in a clean and straightforward way
+- Very lightweight, no custom fonts, no external css or javascript links.
 
 
 Features
 --------
 
 - Fully responsive and mobile-first
-- Comments via Disqus integration
-- Social media buttons
 - W3.CSS CSS framework & HTML5 semantics
+- No trackers
 
 
 Screenshots
